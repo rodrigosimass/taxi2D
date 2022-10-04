@@ -1,5 +1,5 @@
 # taxi2D
-Path planning for a **Taxi** agent on a **2D** grid using Markov Decision Processes.
+Learning the optimal policy of path-planning for a **Taxi** agent on a **2D** grid using Markov Decision Processes.
 
 ## Description
 We model the 2D Grid of the taxi as a Markov Decision Process (MDP) in a fully observable environment.
