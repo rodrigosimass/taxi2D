@@ -1,0 +1,5 @@
+Execution time: 0.089 seconds
+N. iterations: 3
+Policy at state (1, 0, 0, 2): North
+Policy at state (2, 3, 2, 2): West
+Policy at state (1, 4, 2, 0): West

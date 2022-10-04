@@ -1,0 +1,9 @@
+Cost-to-go for state (1, 0, 0, 2):
+    Theoretical: [ 4.1]
+    Empirical: 4.39338954193
+Cost-to-go for state (3, 1, 4, 1):
+    Theoretical: [ 4.1]
+    Empirical: 4.09638954193
+Cost-to-go for state (3, 2, 2, 2):
+    Theoretical: [ 4.1]
+    Empirical: 4.3816865569
